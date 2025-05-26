@@ -1,4 +1,4 @@
-# DevSphere – A Dynamic Portfolio & Blogging Platform 🚀
+# DevSphere – A Dynamic Blogging Platform 🚀
 
 ## Modern. Responsive. Developer-Centric.
 
